@@ -1,6 +1,6 @@
 [
   {
     "_template": "html",
-    "content": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>\n<p>Donec quam felis, ultricies nec, pellentesque eu, preitum quis, sem. Nulla consquat masa quis enim. Donec pede justo, finrgilla vel!</p>"
+    "content": "<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>\n<p>Donec quam felis, ultricies nec, pellentesque eu, preitum quis, sem. Nulla consquat masa quis enim. Donec pede justo, finrgilla vel!<img id=\"1495735156779\" class=\" \" src=\"/assets/images/location.jpg\" width=\"350\" height=\"293\" /></p>"
   }
 ]
